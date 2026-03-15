@@ -8,7 +8,7 @@ A keychain with a [little neuro and evil in it](https://www.twitch.tv/vedal987).
 This is currently only a personal project, so not everything will be documented in full. Use at your own risk! Code and 3D models provided as-is, with no warranty or support. 
 For artwork included in `imagedata.cpp`, please do not use for commercial purposes.\
 
-I would recommended using existing hardware if you want to try something like this out. You can just use my code here as a base. I've never tested them but these seem like good choices for hardware (not affiliated):
+I would recommended using existing hardware if you want to try something like this out. You can just use my code here as a base but it will need to be refactored. I've never tested them but these seem like good choices for hardware (not affiliated):
 - [Waveshare e-Paper IoT Board](https://www.waveshare.com/product/displays/e-paper/esp32-s3-epaper-1.54.htm)
 - [M5Stack Ink Dev Kit](https://shop.m5stack.com/products/m5stack-esp32-core-ink-development-kit1-54-elnk-display)
 
