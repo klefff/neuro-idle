@@ -21,7 +21,7 @@ For artwork included in `imagedata.cpp`, please do not use for commercial purpos
 - Insulating plastic
 
 ## Code:
-- Based on the Wareshare code [here](https://github.com/waveshareteam/e-Paper/tree/master/Arduino/epd1in54_V2)
+- Based on the Wareshare Arduino code [here](https://github.com/waveshareteam/e-Paper/tree/master/Arduino/epd1in54_V2)
 - Pinout modified for nice!nano mcu
 - Some code also changed in `epd1in54_V2.cpp` to accomodate for this project's purpose (could have been a bug in original code)
 - When the voltage of the battery falls below ~3.6V, a small battery warning will appear on the screen
