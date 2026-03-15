@@ -1,7 +1,7 @@
 # neuro:Idle: an e-paper keychain project
 > e-paper keychain for a smart little cookie
 
-A keychain with a [little neuro and evil in it](https://www.twitch.tv/vedal987). Randomly cycle through 12 mildly different images. This is what I got with some spare parts lying around:
+A keychain with a [little neuro and evil in it](https://www.twitch.tv/vedal987). Randomly cycle through 12 mildly different images every 5 mins. This is what I got with some spare parts lying around:
 
 
 ## Warning!
